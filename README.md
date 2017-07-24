@@ -6,7 +6,7 @@ One program that can solve many problems without reporgraming.
 * scikit-learn
 * python
 <br>
-<b>Supervised Learning: </b><br>
+<b>Supervised Learning: </b>
 Create a classifier by finding patterns in examples (training data)
 <br><b>Recipe:</b>
 Collect Training Data --> Train Classifier --> Make Predicitions
