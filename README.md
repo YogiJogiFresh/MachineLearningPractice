@@ -1,12 +1,20 @@
-# MachineLearningPractice
-Machine Learning
+# Notes on Machine Learning
 One program that can solve many problems without reporgraming.
 <br> Learn from examples and experience.<br>
-<b>Getting Started: </b>
+## Getting Started: </b>
 * scikit-learn
 * python
-<br>
-<b>Supervised Learning: </b>
+
+### Supervised Learning: 
 Create a classifier by finding patterns in examples (training data)
-<br><b>Recipe:</b>
+### Recipe:
 Collect Training Data --> Train Classifier --> Make Predicitions
+### Training Data:
+ * Features
+ * Labels
+
+
+#### Ideal features:
+ * Informative
+ * Independent
+ * Simple
